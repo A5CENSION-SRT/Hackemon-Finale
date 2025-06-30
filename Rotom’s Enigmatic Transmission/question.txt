@@ -1,0 +1,19 @@
+Rotom’s Enigmatic Transmission (Crypto)
+
+
+🧩 Thematic Title & Story
+While scavenging in the ruins of an old Power Plant, a mischievous Rotom has possessed a WWII-era cipher device. Professor Oak’s research notes hint that it’s an “Enigma” model once confiscated from Team Rocket. Crack Rotom’s code and recover the secret item location before the villains do!
+
+📜 Problem Description 
+
+Trainers!
+
+We intercepted the file  config.txt  and a single line of scrambled text  cipher.txt.
+Rotom is broadcasting coordinates for Team Rocket’s next raid.  The file says the machine
+type is “Enigma M3.”  Can you reproduce the exact setup, decipher the message, and
+report the hidden flag?
+
+Hint:  An Enigma message never encrypts a letter to itself—use that fact to test tools!
+
+
+flag = hackemon{woodentable}
