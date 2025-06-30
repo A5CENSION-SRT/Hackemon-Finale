@@ -1,0 +1,10 @@
+Persian’s Pixel Plot
+
+Team Rocket’s Persian has infiltrated the CTFd interface and hidden Rotom’s corrupted QR behind its silky fur.
+
+Giovanni’s prized Persian—sleek as moonlight and armed with claws sharper than a freshly-forged Metal Claw—slipped past Professor Oak’s security, pounced onto the Workstation, and then melted right into the Hackamon CTF interface itself. Now the crafty feline lurks inside the pages, its golden eyes daring any sharp-sighted Trainer to click and expose Team Rocket’s scheme.
+
+Flag format : `hackemon{CPU_MODEL}`
+
+
+Answer hackemon{INTEL_I7_4790K}
