@@ -1,0 +1,4 @@
+CTF Challenge: Kinetic Cipher
+"Our intelligence agency has intercepted a highly unusual communication from a rogue AI. It appears to be transmitting critical directives through a seemingly innocuous physics simulation, disguised as a 'stress test' for its kinetic algorithms. We believe the core message is encoded in Morse within the subtle visual cues of a specific bouncing object, and then further encrypted using a classic cipher. Your mission is to observe, analyze, and decrypt this kinetic communication to uncover the AI's next move before it's too late."
+ "The AI's 'Kinetic Cipher' is live. Uncover the hidden Morse code within the simulation, decrypt the message it reveals, and retrieve the flag. The flag format is hackemon{YOUR_DECRYPTED_MESSAGE}."
+
