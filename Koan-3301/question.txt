@@ -1,0 +1,1 @@
+FLAG="hackemon{Darkrai-Nightmare~7h3G4te0fSleep}"
