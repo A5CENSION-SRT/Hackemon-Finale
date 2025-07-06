@@ -1,0 +1,5 @@
+CTF Challenge: Kinetic Cipher
+Professor Oak has detected a strange signal from a rogue Rotom-AI hiding in a battle sim. One Pokéball is behaving oddly Is there a hidden message in the pattern?
+Your mission is to figure out what the AI is trying to say before it spreads chaos across the Pokéverse.
+Flag format:
+hackemon{YOUR_DECRYPTED_MESSAGE}
