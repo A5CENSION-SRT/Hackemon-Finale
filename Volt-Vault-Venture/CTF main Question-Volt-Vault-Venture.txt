@@ -1,0 +1,16 @@
+“Trainers, a storm stirs in the digital wilds—static whispers of a secret locked within the Volt Vault, where Rotom’s electric tricks keep watch.
+
+Your path begins at a flickering terminal, where signals spark in unfamiliar tongues—decode their rhythm to glimpse the hidden gateway.
+
+Beyond, tangled branches of code and countless dead ends await in a forest of folders. Only those who read between the lines will find the legend’s echo, veiled in foreign script and deeper cipher.
+
+The vault’s heart is sealed by a name lost to myth. Only those who can untangle the final arcane message will glimpse its true form.
+
+When the shadows lift, let the name you unveil guide your hand—its power will unlock the path, if you inscribe it as the flag:
+hackemon{pdf_password_pokemontype_pokemonname}
+
+Many will wander; few will master the current. May your mind be as sharp as a Thunderbolt, and your resolve as steady as a Raichu’s tail.”
+
+YUhSMGNITTZMeTkyYjJ4MExYWmhkV3gwTFhabGJuUjFjbVV1ZG1WeVkyVnNMbUZ3Y0M4PQ==
+
+Flag Format: hackemon{....}
