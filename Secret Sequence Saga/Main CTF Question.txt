@@ -1,0 +1,23 @@
+Secret Sequence Saga
+
+Welcome, Trainer! The time has come for you to face the ultimate test in your journey to become a Poké Ball Master. Deep within the digital halls of Team Rocket’s secret web lair, five legendary Poké Balls are locked away—each fiercely guarded by a Pokémon and a web-based security puzzle, devised by the trickiest minds in cyberspace.
+
+The Challenge
+One stormy night, Professor Cy-Oak receives a mysterious, encrypted transmission from a desperate Jigglypuff. Team Rocket has captured five of the most powerful Pokémon—Pikachu, Charmander, Bulbasaur, Squirtle, and the elusive Mewtwo—and sealed them inside digital Poké Balls, each protected by a different “lock.”
+
+The Professor’s scanner reveals that each lock is not what it seems. Some are hidden behind cookies, others behind encoded messages, and some even behind the very headers of your browser. But beware: Team Rocket’s traps are designed to fool even the cleverest AI, with decoys, red herrings, and logic that twists like a Gengar’s Shadow Ball!
+
+Your quest is to collect the four fragments of the “Legendary Key”—one from each of the first four Poké Balls. Only by combining these fragments and forging the true Master Token can you unlock Mewtwo’s final vault.
+
+But the path is not straightforward, and the clues are scattered across your journey. The Professor warns: “The path to the Master Token is hidden in the sum of your journey, not in brute force.”
+
+
+The Rules
+You may use only your browser and your wits—no outside tools, no brute-forcing, and no wild Pokémon (bots) allowed.
+
+Each lock must be solved in order; the clues from one will help you in the next.
+
+The final flag is hidden behind Mewtwo’s psychic shield, revealed only to those who can truly master the art of web authentication bypass.
+
+The Prize
+Unlock all five Poké Balls, and the legendary flag will be yours.

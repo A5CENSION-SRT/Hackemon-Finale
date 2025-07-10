@@ -1,0 +1,43 @@
+🔐 Hackemon: Auth Bypass – 11 Easy Steps to Solve
+Level 1 – Cookie Flip
+Open DevTools → Go to Application → Cookies
+Change isAdmin from false to true.
+
+Level 2 – Base64 Decode
+Decode the auth cookie → Change guest to admin
+Encode it back to base64 and set the cookie again.
+
+Level 3 – JSON + Base64
+Decode the token cookie (JSON format) → Change "role": "guest" to "admin"
+Encode it and update the cookie.
+
+Level 4 – Headers + Cookie Check
+
+Set _xYz cookie to TrUe_buT_s3cr3t
+
+Modify your browser’s User-Agent to include ctf-agent.
+
+Collect Key Parts
+Each level gives a part:
+Pikachu + Charizard + Snorlax + Mewtwo
+
+Level 5 – HMAC Token Challenge
+You need to forge a secure token using the collected key parts.
+
+Prepare the Payload
+Use: role=admin as your message.
+
+Generate HMAC Signature
+Use SHA-256 HMAC with secret key: PikachuCharizardSnorlaxMewtwo
+Calculate the signature of the payload.
+
+Create Final Token
+Format: role=admin.signature
+Base64 encode this string.
+
+Set the Cookie
+Replace the token cookie in DevTools with the newly generated token.
+
+Get the Flag 🎉
+Refresh the page and claim the final flag:
+hackemon{pokeball_master_you_got_em_all}
