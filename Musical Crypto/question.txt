@@ -1,0 +1,21 @@
+🎵 Hackemon CTF Challenge: The Cipher's Symphony 🎵
+
+Professor Oak once experimented with music and memory. In his archives, seven text files have been found—each filled with strange logs, web links, and digital debris.
+
+🎯 Your objective:
+Hidden somewhere within these files is a musical cipher containing a flag.
+The format is: hackemon{flag}
+
+The cipher uses musical notes and is encoded using a specific scheme.
+Figure out how to decode it.
+
+🧠 Rules:
+- You are given 7 files.
+- One of them hides the musical message.
+- No brute force is required.
+- Think like a musician, decode like a hacker.
+
+When you're ready, visit the project page to learn more.
+https://github.com/RaghottamNadgoudar/SaReGaMaPa
+
+🎼 Solve the melody. Gotta hack 'em all!
