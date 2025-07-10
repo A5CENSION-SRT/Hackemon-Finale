@@ -2,5 +2,7 @@ Team Rocket’s spies intercepted a mysterious encrypted transmission from an ab
 
 You have the file config.png containing all the reconstructed settings from Silph Co.’s analysts — but despite their efforts, the message remains uncracked. It’s up to you, a skilled Cyber Trainer, to decrypt the code and reveal the secret hidden inside!
 
+When working with the Enigma settings, be aware that the ring settings and rotor starting positions might have been swapped or interchanged in the intercepted configuration. Double-check both carefully to successfully decrypt the message!
+
 Flag format:
 hackemon{...}

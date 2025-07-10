@@ -1,0 +1,16 @@
+Team Rocket’s Magneton unleashed a powerful electromagnetic pulse that scrambled the data inside a mysterious file named corrupted_binary.txt. This vital transmission from Silph Co. now lies fragmented and obscured by static. The data looks scrambled.—remember, in binary, 8 bits make a byte, and every byte holds a piece of the puzzle.
+
+To restore the message, you must see beyond. Magneton’s static isn’t random—it’s a challenge to your logic and skill. Only by understanding the secret dance of these electric sparks can you clear the interference.
+
+A riddle to guide you:
+Silent sparks on a shadowed road,
+Veils of twilight fracture the code.
+Discordant flashes reshape the form,
+Reflections masked in spectral reprieve.
+In dusk’s embrace, paired phantoms weave,
+Concordant murmurs quell the storm.
+
+This riddle hints at the key to unraveling Magneton’s interference. Your mission is to rebuild the original data from the corrupted text and reveal the secret message hidden by Team Rocket’s sabotage.
+
+Flag format:
+hackemon{...}
