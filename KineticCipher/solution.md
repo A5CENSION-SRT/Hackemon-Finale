@@ -1,4 +1,4 @@
-## Phase 1: Kinetic Cipher Simulation (`index.html`)
+## Phase 1: Kinetic Cipher Simulation
 
 ### Observation and Interaction
 - The web page features a bouncing ball simulation.
@@ -69,7 +69,7 @@ Extract final vigenere key: GRAVITY (XXX just padding)
 ## Phase 3: Final decryption and flag
 ### Vigenere decryption
 Formula: P<sub>i</sub> = (C<sub>i</sub> − K<sub>i</sub> + 26) mod 26
-**Decrypted message: BOUNCE***
+**Decrypted message: BOUNCE**
 ## Final flag: hackemon{BOUNCE}
 
 
