@@ -54,7 +54,7 @@ The array holds ASCII codes offset by 100. Subtracting 100 yields Morse characte
 **Extracted Ciphertext: HFUIKX**
 ## Phase 2: The Data Vignette (key_clue.html)
 ### Analysing the web page source
-1. Open key_clue.html in a browser.
+1. Open https://kinetic-cipher-f.vercel.app/key_clue.html.
 2. The visible content says:
 "Every detail, no matter how small, could be critical."
 3. Inspect the page source and locate the following:
