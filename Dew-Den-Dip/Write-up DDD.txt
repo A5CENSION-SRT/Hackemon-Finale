@@ -1,0 +1,7 @@
+1)The pokemon we are talking about in the story in Onix
+2)Onixs' pokedex number id 95
+3)the pokemon which comes after Onix is Drowzee
+4)Its pokedex number is 96
+
+Flag: hackemon{drowzee}
+
