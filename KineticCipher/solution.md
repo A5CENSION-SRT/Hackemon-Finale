@@ -1,5 +1,3 @@
-## Porygon-Z's Glitch Stream
-
 ## Phase 1: Kinetic Cipher Simulation (`index.html`)
 
 ### Observation and Interaction
@@ -21,7 +19,7 @@ The string is Base64-encoded and split into two parts:
 ---
 
 ### Extracting the Morse Code from JavaScript
-1. Open Developer Tools → Sources tab → Locate the obfuscated JavaScript.
+1. Open Developer Tools (shortcut and right click to open devtools are disabled but can be accessed by opening devtools it in a new tab before pasting the vercel link) → Sources tab (clearly shows soirce script file) → Locate the obfuscated JavaScript by navigating to https://kinetic-cipher-f.vercel.app/script.js.
 2. Identify the decoding function:
 
 ```js
