@@ -53,6 +53,8 @@ The output rolls out as:
 
 `hackemon{woodentable}`
 
+PS. It was observed during the CTF that participnts were stuck using alternate websites which werent giving the right answer.that may be the reason some of you dint get this during CTF
+
 --------------------------------------------------------------------
 🎉 4. Claim the Badge
 
