@@ -1,0 +1,14 @@
+Writeup- Volt-Vault-Venture
+
+1)Go to the website link given and decrypt the message given
+2)You will end up in the GitHub repo
+3)There will be two files
+4)Open the Question file and solve the riddle
+5)the Answer to the riddle is the password to the pdf 
+6)Search for the description of the problem in the pdf
+7) Read the paragraph and solve the riddle again
+8) after solving the riddle you will get another pokemon's name
+9)That pokemon's name is the flag
+
+Flag Format: hackemon{.....}
+Flag: hackemon{mew}
