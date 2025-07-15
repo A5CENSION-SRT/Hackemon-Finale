@@ -1,4 +1,4 @@
-## Phase 1: Kinetic Cipher Simulation (`index.html`)
+## Phase 1: Kinetic Cipher Simulation
 
 ### Observation and Interaction
 - The web page features a bouncing ball simulation.
@@ -19,7 +19,7 @@ The string is Base64-encoded and split into two parts:
 ---
 
 ### Extracting the Morse Code from JavaScript
-1. Open Developer Tools (shortcut and right click to open devtools are disabled but can be accessed by opening devtools it in a new tab before pasting the vercel link) → Sources tab (clearly shows soirce script file) → Locate the obfuscated JavaScript by navigating to https://kinetic-cipher-f.vercel.app/script.js.
+1. Open Developer Tools (shortcut and right click to open devtools are disabled but can be accessed by opening devtools in a new tab before pasting the vercel link) → Sources tab (clearly shows source script file) → Locate the obfuscated JavaScript by navigating to https://kinetic-cipher-f.vercel.app/script.js.
 2. Identify the decoding function:
 
 ```js
@@ -54,7 +54,7 @@ The array holds ASCII codes offset by 100. Subtracting 100 yields Morse characte
 **Extracted Ciphertext: HFUIKX**
 ## Phase 2: The Data Vignette (key_clue.html)
 ### Analysing the web page source
-1. Open key_clue.html in a browser.
+1. Open https://kinetic-cipher-f.vercel.app/key_clue.html.
 2. The visible content says:
 "Every detail, no matter how small, could be critical."
 3. Inspect the page source and locate the following:
@@ -69,8 +69,7 @@ Extract final vigenere key: GRAVITY (XXX just padding)
 ## Phase 3: Final decryption and flag
 ### Vigenere decryption
 Formula: P<sub>i</sub> = (C<sub>i</sub> − K<sub>i</sub> + 26) mod 26
-**Decrypted message: BOUNCE***
+**Decrypted message: BOUNCE**
 ## Final flag: hackemon{BOUNCE}
-
 
 
