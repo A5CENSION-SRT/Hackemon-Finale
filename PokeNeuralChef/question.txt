@@ -1,0 +1,23 @@
+# 🏥 PokéGuard Neural Network Bypass
+
+## Background
+Professor Oak has revolutionized PokéCenter security by implementing an advanced AI-powered defense system called **PokéGuard**. This cutting-edge system uses LSTM (Long Short-Term Memory) neural networks to analyze trainer login attempts and detect potential Team Rocket infiltration patterns.
+
+The system has been trained on thousands of malicious attack patterns and boasts a 99.7% detection rate against known threats. However, even the most intelligent Alakazam might have some blind spots...
+
+## Challenge Objective
+Your mission: Bypass the PokéGuard neural network security system and access Professor Oak's trainer database to retrieve the flag.
+
+## Target Information
+- **PokéCenter Login Portal:** http://64.227.170.205:5000
+- **Protected by:** PokéGuard Neural Network v2.0
+- **Security Level:** Maximum
+
+## Intel Report
+🔍 **Reconnaissance Notes:**
+- The PokéGuard system analyzes trainer input for suspicious patterns
+- It uses state-of-the-art LSTM neural network technology
+- The system was specifically trained to detect Team Rocket attack signatures
+- Professor Oak's credentials are stored in the trainer database
+- The AI system processes login attempts in real-time
+
